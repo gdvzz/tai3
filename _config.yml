@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: AI人才库
+description: Talent Bank
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+# url: https://just-the-docs.github.io
+url: "https://tai3.gdvzz.com"  # by George 260416
+baseurl: ""  # 如果直接放在根域名下，留空 # by George 260416
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# aux_links:
+#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
